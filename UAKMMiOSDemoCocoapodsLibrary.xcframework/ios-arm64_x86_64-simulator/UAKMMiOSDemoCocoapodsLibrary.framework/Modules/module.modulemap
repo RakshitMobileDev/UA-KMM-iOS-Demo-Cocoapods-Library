@@ -1,0 +1,6 @@
+framework module UAKMMiOSDemoCocoapodsLibrary {
+    umbrella header "UAKMMiOSDemoCocoapodsLibrary.h"
+
+    export *
+    module * { export * }
+}
