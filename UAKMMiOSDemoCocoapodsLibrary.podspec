@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'UAKMMiOSDemoCocoapodsLibrary'
-    spec.version                  = '0.1.0'
+    spec.version                  = '0.1.1'
     spec.homepage                 = 'https://github.com/RakshitMobileDev/UA-KMM-iOS-Demo-Cocoapods-Library.git'
     spec.source                   = { :git => 'https://github.com/RakshitMobileDev/UA-KMM-iOS-Demo-Cocoapods-Library.git', :tag => spec.version }
     spec.module_name              = 'UAKMMiOSDemoCocoapodsLibraryModule'
